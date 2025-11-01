@@ -1,0 +1,5 @@
+tensorflow==1.15.5
+# Note: gymnasium[atari] must be installed separately with the ROM license
+gymnasium
+numpy
+psutil
